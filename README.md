@@ -22,3 +22,4 @@ Each move wins against one shape and loses to another.
 # Team Members
 KALA SRI SOWMYA - 19PA1A1257
 KODALI POOJITHA - 19PA1A0574
+![game screen capture](https://user-images.githubusercontent.com/72956653/106029167-d497c380-60f2-11eb-9612-7804b2a01cab.png)
