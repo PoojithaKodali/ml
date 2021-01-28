@@ -19,6 +19,9 @@ Each move wins against one shape and loses to another.
 
 # PLAY GAME HERE !
   https://ML.kalasri.repl.co
+# Video Link
+  https://youtu.be/tSz3j6ib0So
+
 # Team Members
 KALA SRI SOWMYA - 19PA1A1257
 KODALI POOJITHA - 19PA1A0574
